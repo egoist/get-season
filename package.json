@@ -1,6 +1,6 @@
 {
   "name": "get-season",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get the current season of Anime world.",
   "license": "MIT",
   "repository": "egoist/get-season",
